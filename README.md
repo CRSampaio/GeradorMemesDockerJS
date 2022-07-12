@@ -1,6 +1,6 @@
 # Gerador de Memes usando NodeJS, Docker e GraphicsMagick
 
-Projeto criado na live: [Criando um gerador de memes com Docker e JavaScript](https://youtu.be/MOpwfg1GJig). Irei anotar aqui o passo-a-passo que fiz para copiar esse projeto
+Projeto criado na live: [Criando um gerador de memes com Docker e JavaScript](https://youtu.be/MOpwfg1GJig). Irei anotar aqui o passo-a-passo que fiz para copiar esse projeto.
 
 ## 1º Passo: Inicializar um projeto NodeJS
 
